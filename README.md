@@ -1,5 +1,4 @@
-### Hi there 👋
-
+I code, sometimes, that´s it
 <!--
 **midguet12/midguet12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
